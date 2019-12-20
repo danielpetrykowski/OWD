@@ -1,0 +1,73 @@
+
+# Produkty 
+set PRODUCTS := P1 P2 P3 P4 P5 P6 P7;
+
+# Narzedzia
+set TOOLS := GRINDER VDRILL HDRILL MILLER LATHE;
+
+# Miesiace
+set MONTHS := JAN FEB MAR;
+
+# Licza narzedzi
+param toolCount :=
+	GRINDER	4
+	VDRILL	2
+	HDRILL	3
+	MILLER	1
+	LATHE	1
+	;
+
+# Czasy produkcji h
+param toolTimePerUnit:
+				P1		P2		P3		P4      P5      P6      P7 :=
+	GRINDER		0.5		0.7		0		0	    0.3     0.2     0.5
+	VDRILL		0.1		0.2		0		0.3     0       0.6     0
+	HDRILL		0.2		0		0.8		0       0       0       0.6
+	MILLER		0.05	0.03	0		0.07    0.1     0       0.08
+	LATHE		0		0	    0.01	0       0.05    0       0.05
+	;
+	
+# Ograniczenia rynkowe liczby sprzedawanych produktow 
+param salesMarketLimit:
+			P1		P2		P3		P4      P5      P6      P7 :=
+	JAN		500		1000	300	    300		800     200     100
+	FEB		600		500		200		0       400     300     150
+	MAR		300		600		0		0       500     400     100
+	;
+	
+# Ograniczeine liczby magazynowanych produktow 
+param storageLimit := 
+	P1	100
+	P2	100
+	P3	100
+	P4	100
+    P5  100
+    P6  100
+    P7  100
+	;
+
+# Koszt magazynowania produktow pln/szt per monyh
+param storageUnitCost := 0.5;
+	
+# Wymagany zapas każdej sztuki produktu w 3 miesiącu
+param storageRequirInThirdM := 50;
+
+# Liczba dni roboczych w miesiacu d
+param daysPerMonth := 24;
+
+# Liczba zmian w ciagu jednego dnia roboczego
+param shiftsPerDay := 1;
+
+# Dlugosc zmiany h
+param hoursPerShift := 8;
+
+# Marża
+param expectedProfitPerUnit :=
+	P1	10
+	P2	6
+	P3	8
+	P4	4
+    P5  11
+    P6  9
+    P7  3
+	;

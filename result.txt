@@ -1,0 +1,1111 @@
+
+#################################################
+w1 = 0
+
+w2 = 1
+
+profit = -175
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -3000.000000
+
+#################################################
+w1 = 0.01
+
+w2 = 0.99
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2967.225000
+
+#################################################
+w1 = 0.02
+
+w2 = 0.98
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2934.450000
+
+#################################################
+w1 = 0.03
+
+w2 = 0.97
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2901.675000
+
+#################################################
+w1 = 0.04
+
+w2 = 0.96
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2868.900000
+
+#################################################
+w1 = 0.05
+
+w2 = 0.95
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2836.125000
+
+#################################################
+w1 = 0.06
+
+w2 = 0.94
+
+profit = 277.5
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2803.350000
+
+#################################################
+w1 = 0.07
+
+w2 = 0.93
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2770.540000
+
+#################################################
+w1 = 0.08
+
+w2 = 0.92
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2737.760000
+
+#################################################
+w1 = 0.09
+
+w2 = 0.91
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2704.980000
+
+#################################################
+w1 = 0.1
+
+w2 = 0.9
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2672.200000
+
+#################################################
+w1 = 0.11
+
+w2 = 0.89
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2639.420000
+
+#################################################
+w1 = 0.12
+
+w2 = 0.88
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2606.640000
+
+#################################################
+w1 = 0.13
+
+w2 = 0.87
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2573.860000
+
+#################################################
+w1 = 0.14
+
+w2 = 0.86
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2541.080000
+
+#################################################
+w1 = 0.15
+
+w2 = 0.85
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2508.300000
+
+#################################################
+w1 = 0.16
+
+w2 = 0.84
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2475.520000
+
+#################################################
+w1 = 0.17
+
+w2 = 0.83
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2442.740000
+
+#################################################
+w1 = 0.18
+
+w2 = 0.82
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2409.960000
+
+#################################################
+w1 = 0.19
+
+w2 = 0.81
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2377.180000
+
+#################################################
+w1 = 0.2
+
+w2 = 0.8
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2344.400000
+
+#################################################
+w1 = 0.21
+
+w2 = 0.79
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2311.620000
+
+#################################################
+w1 = 0.22
+
+w2 = 0.78
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2278.840000
+
+#################################################
+w1 = 0.23
+
+w2 = 0.77
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2246.060000
+
+#################################################
+w1 = 0.24
+
+w2 = 0.76
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2213.280000
+
+#################################################
+w1 = 0.25
+
+w2 = 0.75
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2180.500000
+
+#################################################
+w1 = 0.26
+
+w2 = 0.74
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2147.720000
+
+#################################################
+w1 = 0.27
+
+w2 = 0.73
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2114.940000
+
+#################################################
+w1 = 0.28
+
+w2 = 0.72
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2082.160000
+
+#################################################
+w1 = 0.29
+
+w2 = 0.71
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2049.380000
+
+#################################################
+w1 = 0.3
+
+w2 = 0.7
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -2016.600000
+
+#################################################
+w1 = 0.31
+
+w2 = 0.69
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -1983.820000
+
+#################################################
+w1 = 0.32
+
+w2 = 0.68
+
+profit = 278
+
+complateFactoryWorkTime = 30
+
+Funkcja celu: -1951.040000
+
+#################################################
+w1 = 0.33
+
+w2 = 0.67
+
+profit = 306
+
+complateFactoryWorkTime = 30.1333
+
+Funkcja celu: -1917.953333
+
+#################################################
+w1 = 0.34
+
+w2 = 0.66
+
+profit = 2648
+
+complateFactoryWorkTime = 41.9
+
+Funkcja celu: -1865.080000
+
+#################################################
+w1 = 0.35
+
+w2 = 0.65
+
+profit = 2806
+
+complateFactoryWorkTime = 42.725
+
+Funkcja celu: -1795.025000
+
+#################################################
+w1 = 0.36
+
+w2 = 0.64
+
+profit = 16839
+
+complateFactoryWorkTime = 121.1
+
+Funkcja celu: -1688.360000
+
+#################################################
+w1 = 0.37
+
+w2 = 0.63
+
+profit = 18373
+
+complateFactoryWorkTime = 130.05
+
+Funkcja celu: -1395.140000
+
+#################################################
+w1 = 0.38
+
+w2 = 0.62
+
+profit = 23375
+
+complateFactoryWorkTime = 159.75
+
+Funkcja celu: -1022.000000
+
+#################################################
+w1 = 0.39
+
+w2 = 0.61
+
+profit = 23375
+
+complateFactoryWorkTime = 159.75
+
+Funkcja celu: -628.500000
+
+#################################################
+w1 = 0.4
+
+w2 = 0.6
+
+profit = 23576.5
+
+complateFactoryWorkTime = 161.05
+
+Funkcja celu: -232.400000
+
+#################################################
+w1 = 0.41
+
+w2 = 0.59
+
+profit = 26252.5
+
+complateFactoryWorkTime = 179.55
+
+Funkcja celu: 170.075000
+
+#################################################
+w1 = 0.42
+
+w2 = 0.58
+
+profit = 27754
+
+complateFactoryWorkTime = 190
+
+Funkcja celu: 636.680000
+
+#################################################
+w1 = 0.43
+
+w2 = 0.57
+
+profit = 27754
+
+complateFactoryWorkTime = 190
+
+Funkcja celu: 1104.220000
+
+#################################################
+w1 = 0.44
+
+w2 = 0.56
+
+profit = 27754
+
+complateFactoryWorkTime = 190
+
+Funkcja celu: 1571.760000
+
+#################################################
+w1 = 0.45
+
+w2 = 0.55
+
+profit = 27787
+
+complateFactoryWorkTime = 190.267
+
+Funkcja celu: 2039.483333
+
+#################################################
+w1 = 0.46
+
+w2 = 0.54
+
+profit = 27797
+
+complateFactoryWorkTime = 190.35
+
+Funkcja celu: 2507.720000
+
+#################################################
+w1 = 0.47
+
+w2 = 0.53
+
+profit = 27909.5
+
+complateFactoryWorkTime = 191.325
+
+Funkcja celu: 2977.240000
+
+#################################################
+w1 = 0.48
+
+w2 = 0.52
+
+profit = 28304
+
+complateFactoryWorkTime = 194.883
+
+Funkcja celu: 3451.986667
+
+#################################################
+w1 = 0.49
+
+w2 = 0.51
+
+profit = 28728.5
+
+complateFactoryWorkTime = 198.9
+
+Funkcja celu: 3933.065000
+
+#################################################
+w1 = 0.5
+
+w2 = 0.5
+
+profit = 31702
+
+complateFactoryWorkTime = 227.725
+
+Funkcja celu: 4464.750000
+
+#################################################
+w1 = 0.51
+
+w2 = 0.49
+
+profit = 31726.5
+
+complateFactoryWorkTime = 227.975
+
+Funkcja celu: 5009.740000
+
+#################################################
+w1 = 0.52
+
+w2 = 0.48
+
+profit = 32120
+
+complateFactoryWorkTime = 232.175
+
+Funkcja celu: 5558.000000
+
+#################################################
+w1 = 0.53
+
+w2 = 0.47
+
+profit = 43965
+
+complateFactoryWorkTime = 362.375
+
+Funkcja celu: 6269.825000
+
+#################################################
+w1 = 0.54
+
+w2 = 0.46
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 7080.500000
+
+#################################################
+w1 = 0.55
+
+w2 = 0.45
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 7891.250000
+
+#################################################
+w1 = 0.56
+
+w2 = 0.44
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 8702.000000
+
+#################################################
+w1 = 0.57
+
+w2 = 0.43
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 9512.750000
+
+#################################################
+w1 = 0.58
+
+w2 = 0.42
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 10323.500000
+
+#################################################
+w1 = 0.59
+
+w2 = 0.41
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 11134.250000
+
+#################################################
+w1 = 0.6
+
+w2 = 0.4
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 11945.000000
+
+#################################################
+w1 = 0.61
+
+w2 = 0.39
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 12755.750000
+
+#################################################
+w1 = 0.62
+
+w2 = 0.38
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 13566.500000
+
+#################################################
+w1 = 0.63
+
+w2 = 0.37
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 14377.250000
+
+#################################################
+w1 = 0.64
+
+w2 = 0.36
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 15188.000000
+
+#################################################
+w1 = 0.65
+
+w2 = 0.35
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 15998.750000
+
+#################################################
+w1 = 0.66
+
+w2 = 0.34
+
+profit = 44375
+
+complateFactoryWorkTime = 367
+
+Funkcja celu: 16809.500000
+
+#################################################
+w1 = 0.67
+
+w2 = 0.33
+
+profit = 45125
+
+complateFactoryWorkTime = 382
+
+Funkcja celu: 17627.750000
+
+#################################################
+w1 = 0.68
+
+w2 = 0.32
+
+profit = 46212.5
+
+complateFactoryWorkTime = 404.5
+
+Funkcja celu: 18480.500000
+
+#################################################
+w1 = 0.69
+
+w2 = 0.31
+
+profit = 47223.5
+
+complateFactoryWorkTime = 426.6
+
+Funkcja celu: 19359.615000
+
+#################################################
+w1 = 0.7
+
+w2 = 0.3
+
+profit = 48161.5
+
+complateFactoryWorkTime = 448.175
+
+Funkcja celu: 20267.800000
+
+#################################################
+w1 = 0.71
+
+w2 = 0.29
+
+profit = 48994.5
+
+complateFactoryWorkTime = 468.3
+
+Funkcja celu: 21205.395000
+
+#################################################
+w1 = 0.72
+
+w2 = 0.28
+
+profit = 48994.5
+
+complateFactoryWorkTime = 468.3
+
+Funkcja celu: 22163.640000
+
+#################################################
+w1 = 0.73
+
+w2 = 0.27
+
+profit = 48994.5
+
+complateFactoryWorkTime = 468.3
+
+Funkcja celu: 23121.885000
+
+#################################################
+w1 = 0.74
+
+w2 = 0.26
+
+profit = 48994.5
+
+complateFactoryWorkTime = 468.3
+
+Funkcja celu: 24080.130000
+
+#################################################
+w1 = 0.75
+
+w2 = 0.25
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 25119.625000
+
+#################################################
+w1 = 0.76
+
+w2 = 0.24
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 26222.420000
+
+#################################################
+w1 = 0.77
+
+w2 = 0.23
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 27325.215000
+
+#################################################
+w1 = 0.78
+
+w2 = 0.22
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 28428.010000
+
+#################################################
+w1 = 0.79
+
+w2 = 0.21
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 29530.805000
+
+#################################################
+w1 = 0.8
+
+w2 = 0.2
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 30633.600000
+
+#################################################
+w1 = 0.81
+
+w2 = 0.19
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 31736.395000
+
+#################################################
+w1 = 0.82
+
+w2 = 0.18
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 32839.190000
+
+#################################################
+w1 = 0.83
+
+w2 = 0.17
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 33941.985000
+
+#################################################
+w1 = 0.84
+
+w2 = 0.16
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 35044.780000
+
+#################################################
+w1 = 0.85
+
+w2 = 0.15
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 36147.575000
+
+#################################################
+w1 = 0.86
+
+w2 = 0.14
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 37250.370000
+
+#################################################
+w1 = 0.87
+
+w2 = 0.13
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 38353.165000
+
+#################################################
+w1 = 0.88
+
+w2 = 0.12
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 39455.960000
+
+#################################################
+w1 = 0.89
+
+w2 = 0.11
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 40558.755000
+
+#################################################
+w1 = 0.9
+
+w2 = 0.1
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 41661.550000
+
+#################################################
+w1 = 0.91
+
+w2 = 0.09
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 42764.345000
+
+#################################################
+w1 = 0.92
+
+w2 = 0.08
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 43867.140000
+
+#################################################
+w1 = 0.93
+
+w2 = 0.07
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 44969.935000
+
+#################################################
+w1 = 0.94
+
+w2 = 0.06
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 46072.730000
+
+#################################################
+w1 = 0.95
+
+w2 = 0.05
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 47175.525000
+
+#################################################
+w1 = 0.96
+
+w2 = 0.04
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 48278.320000
+
+#################################################
+w1 = 0.97
+
+w2 = 0.03
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 49381.115000
+
+#################################################
+w1 = 0.98
+
+w2 = 0.02
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 50483.910000
+
+#################################################
+w1 = 0.99
+
+w2 = 0.01
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 51586.705000
+
+#################################################
+w1 = 1
+
+w2 = 0
+
+profit = 52689.5
+
+complateFactoryWorkTime = 575.9
+
+Funkcja celu: 52689.500000
