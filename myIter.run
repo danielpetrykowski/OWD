@@ -1,0 +1,38 @@
+
+# Konfiguracja modelu 
+# ----------------------------------------------------
+	reset;
+	model prod.mod ;
+	data prod.dat ;
+	
+
+# Model
+# ----------------------------------------------------------
+
+
+
+# Funkcja celu
+
+	param w1 >= 0;
+	param w2 >= 0;
+	maximize FC : w1 * profit - w2 * complateFactoryWorkTime * 100;
+	objective FC;
+
+
+for {i in 0..200} {
+
+
+	option solver cplex ;
+	let w1 := i*0.5/100;
+	let w2 := (100 - i*0.5)/100;
+
+	solve;
+	
+	printf "\n#################################################\n" > result.txt;
+	printf "%f\n", w1 > result.txt;
+	printf "%f\n", w2 > result.txt;
+	printf "%f\n", profit > result.txt;
+	printf "%f\n", complateFactoryWorkTime > result.txt;
+	printf "%f\n", FC > result.txt;
+	
+};
