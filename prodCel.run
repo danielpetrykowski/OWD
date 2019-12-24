@@ -1,0 +1,71 @@
+# Konfiguracja modelu 
+# ----------------------------------------------------
+	reset;
+	model ..\prod.mod ;
+	data ..\prod.dat ;
+	
+
+# Model
+# ----------------------------------------------------------
+
+
+# Parametry
+# ----------------------------------------------------------
+param ae;
+param acttp;
+param wep;
+param wem;
+param wcttpp;
+param wcttpm;
+
+
+# Zmienne
+# ----------------------------------------------------------
+var dem >= 0;
+var dep >= 0;
+var dcttpm >= 0;
+var dcttpp >= 0;
+var z = wep * dep + wem * dem + wcttpp * dcttpp + wcttpm * dcttpm;
+
+
+# Ograniczenia
+# ----------------------------------------------------------
+subject to PunktAspiracjiZysk:
+	ae = profit + dem - dep;
+subject to PunktAspiracjiCzas:
+	acttp = complateFactoryWorkTime + dcttpm - dcttpp;
+
+
+# Funkcja celu
+# ----------------------------------------------------------
+minimize FC : z;
+objective FC;
+
+
+
+# Inicjalizacja wag 
+# ----------------------------------------------------------
+
+let ae := 40000;
+let acttp := 100;
+let wep := 1;	#
+let wem := 1;	#
+let wcttpp := 1;	#
+let wcttpm := 1;	#
+
+
+# Obliczenia
+# ----------------------------------------------------------
+option solver cplex ;
+solve;
+	
+
+# Wyniki
+# ----------------------------------------------------------
+printf "\n#################################################\n";
+display produced;
+display sold;
+display stored;
+display profit;
+display complateFactoryWorkTime;
+display FC;
