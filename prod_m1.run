@@ -1,0 +1,41 @@
+
+# Konfiguracja modelu 
+# ----------------------------------------------------
+	reset;
+	model ..\prod.mod ;
+	data ..\prod.dat ;
+	
+
+# Model
+# ----------------------------------------------------------
+param w1 >= 0;
+param w2 >= 0;
+
+
+# Funkcja celu
+# ----------------------------------------------------------
+maximize FC : w1 * profit - w2 * 100 * complateFactoryWorkTime;
+objective FC;
+
+
+# Inicjalizacja wag 
+# ----------------------------------------------------------
+let w1 := 1;	# waga dla funkcji oceny zysku
+let w2 := 0.01;	# waga dla funkcji oceny czasu pracy 
+
+
+# Obliczenia
+# ----------------------------------------------------------
+option solver cplex ;
+solve;
+	
+
+# Wyniki
+# ----------------------------------------------------------
+printf "\n#################################################\n";
+display produced;
+display sold;
+display stored;
+display profit;
+display complateFactoryWorkTime;
+display FC;

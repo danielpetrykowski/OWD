@@ -56,7 +56,7 @@ param storageRequirInThirdM := 50;
 param daysPerMonth := 24;
 
 # Liczba zmian w ciagu jednego dnia roboczego
-param shiftsPerDay := 1;
+param shiftsPerDay := 2;
 
 # Dlugosc zmiany h
 param hoursPerShift := 8;

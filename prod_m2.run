@@ -47,11 +47,11 @@ objective FC;
 # ----------------------------------------------------------
 
 let ae := 40000;
-let acttp := 100;
+let acttp := 400;
 let wep := 1;	#
 let wem := 1;	#
-let wcttpp := 1;	#
-let wcttpm := 1;	#
+let wcttpp := 100;	#
+let wcttpm := 100;	#
 
 
 # Obliczenia
